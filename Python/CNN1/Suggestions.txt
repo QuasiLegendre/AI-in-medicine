@@ -1,0 +1,1 @@
+I believe add initial corps and use more complicated CNNs like DenseNet could produce better results.
